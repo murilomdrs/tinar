@@ -1,6 +1,5 @@
 import traceback
 from src.bot import Bot
-from src.logs import setup_logging
 
 def main():
   try:
